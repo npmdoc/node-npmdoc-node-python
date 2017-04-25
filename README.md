@@ -1,6 +1,6 @@
 # npmdoc-node-python
 
-#### api documentation for  node-python (v0.0.4)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-python.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-python) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-python.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-python)
+#### basic api documentation for  node-python (v0.0.4)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-python.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-python) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-python.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-python)
 
 #### Call python stuff from nodejs
 
